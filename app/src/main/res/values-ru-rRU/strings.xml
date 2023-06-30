@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Летняя практика</string>
+    <string name="enter">Ввести</string>
+    <string name="captute">Для вычисления индекса массы тела заполните поля</string>
+    <string name="age">Возраст</string>
+    <string name="weight">Вес</string>
+    <string name="height">Рост</string>
+    <string name="name">Имя</string>
+</resources>
