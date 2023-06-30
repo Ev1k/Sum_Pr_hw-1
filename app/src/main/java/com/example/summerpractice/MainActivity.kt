@@ -47,7 +47,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
     class User {
         var name: String = ""
         var height: Int = 0
